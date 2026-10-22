@@ -14,3 +14,6 @@
 | 2 | Created my first page | Add first page | main |
 | 3 | Created my index.html and updated it | added a new h2 | main |
 | 4 | Added part 4 of day 2 to moodle | added part 4 from moodle | main |
+| 4 | Added an About me section | Added and updated about me| main |
+| 5 | Added a list of things I like | Add list of things I like | main |
+| 6 | Added my goals | Add paragraph of goals | main |
