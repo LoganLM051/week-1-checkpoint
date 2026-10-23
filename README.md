@@ -1,5 +1,5 @@
 # Week 1 Checkpoint
-
+Live site: https://loganlm051.github.io/week-1-checkpoint/ 
 ## My setup
 - Operating system: Windows 
 - Editor: Logan Merrill 
